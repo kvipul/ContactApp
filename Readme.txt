@@ -4,13 +4,14 @@
 
 Instructions:
 	-Simply unzip the .zip file
-	-Android Development has been done using Android Studio Softwre
+	-Android Development has been done using Android Studio Softwres
 	-Apk file is attached with source file
 	-fakeContact.json file shouble be kept in res/assets folder
+	-SMS charges may apply while sending SMS
 
-Feature added:
+Features added:
 	-App works file, handles error condition and check every action status
-	-I'm aware of basic coding principles thus I've made seperate modules(class) for different features like sendSms class to send sms only
+	-As I'm aware of basic coding principles I've made seperate modules(class) for different features like sendSms class to send sms only
 	-Also My project holds quality attributes like scalability, Maintainablility, performance, security, testablity and usablity
 
 References:
